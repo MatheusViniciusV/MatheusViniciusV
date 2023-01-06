@@ -2,7 +2,7 @@
 
 - 🏫 Sou estudante de Informática pelo CEFET-MG
 - 🖥 Escrevo códigos em C, Python e Javascript
-- 📘 Atualmente estou estudando GUI em Python
+- 📘 Atualmente estou estudando programação Web
 
 <div style="display: inline_block">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MatheusViniciusV&show_icons=true&theme=radical">
