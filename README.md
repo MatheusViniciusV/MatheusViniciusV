@@ -1,7 +1,7 @@
 ### Olá, eu sou Matheus Vinicius 👋
 
 - 🏫 Sou estudante de Informática pelo CEFET-MG
-- 🖥 Escrevo códigos em C, Python e Javascript
+- 🖥 Escrevo códigos em C/C++, Python e Javascript
 - 📘 Atualmente estou estudando programação Web
 
 <div style="display: inline_block">
